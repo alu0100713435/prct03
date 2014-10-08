@@ -1,0 +1,1 @@
+21- Que en el interprete de ruby se ejecuta el programa que contiene el codigo, mientras que en el interprete pones la orden y la ejecuta directamente como si se tratara de un comando.
