@@ -1,1 +1,5 @@
 21- Que en el interprete de ruby se ejecuta el programa que contiene el codigo, mientras que en el interprete pones la orden y la ejecuta directamente como si se tratara de un comando.
+
+27- Que con pry la sesion es interactiva y nos permite cambiar valores de variables o escribir mas codigo sobre la marcha.
+
+
